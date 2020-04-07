@@ -24,12 +24,12 @@ Don't forget to populate the `.aws` folder with your configuration and credentia
 
 ```console
 # Populate config files (from the container)
-cat <<EOT > ~/.aws/config
+$ cat <<EOT > ~/.aws/config
 [default]
 region = eu-west-3
 output = json
 EOT
-cat <<EOT > ~/.aws/credentials
+$ cat <<EOT > ~/.aws/credentials
 [default]
 aws_access_key_id = my-access-key
 aws_secret_access_key = my-secret-key
