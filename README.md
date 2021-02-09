@@ -6,16 +6,16 @@ A docker image for running serverless command (with aws-cli) available on [Docke
 
 ```bash
 $ node --version
-v12.16.1
+v15.8.0
 
 $ serverless --version
-Framework Core: 1.67.0
-Plugin: 3.6.3
-SDK: 2.3.0
-Components: 2.28.0
+Framework Core: 2.23.0
+Plugin: 4.4.2
+SDK: 2.3.2
+Components: 3.6.2
 
 $ aws --version
-aws-cli/2.0.6 Python/3.7.3 Linux/4.19.76-linuxkit botocore/2.0.0dev10
+aws-cli/2.1.24 Python/3.7.3 Linux/4.19.121-linuxkit exe/x86_64.debian.9 prompt/off
 ```
 
 ## Usage
