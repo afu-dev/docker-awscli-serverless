@@ -9,13 +9,13 @@ $ node --version
 v15.8.0
 
 $ serverless --version
-Framework Core: 2.23.0
-Plugin: 4.4.2
-SDK: 2.3.2
-Components: 3.6.2
+Framework Core: 2.44.0
+Plugin: 5.2.0
+SDK: 4.2.3
+Components: 3.11.0
 
 $ aws --version
-aws-cli/2.1.24 Python/3.7.3 Linux/4.19.121-linuxkit exe/x86_64.debian.9 prompt/off
+aws-cli/2.2.9 Python/3.8.8 Linux/5.10.25-linuxkit exe/x86_64.debian.9 prompt/off
 ```
 
 ## Usage
